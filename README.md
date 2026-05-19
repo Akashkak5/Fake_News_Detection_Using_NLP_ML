@@ -16,7 +16,8 @@ Machine Learning model training
 Fake vs Real news prediction
 Model evaluation using accuracy score
 Beginner-friendly implementation
-Technologies Used
+
+Technologies Used:
 Python
 Pandas
 NumPy
@@ -26,7 +27,8 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 VS Code
-Machine Learning Workflow
+
+Machine Learning Workflow:
 Load Dataset
 Clean and preprocess text data
 Remove stopwords and unnecessary symbols
@@ -35,21 +37,24 @@ Split dataset into training and testing data
 Train Machine Learning model
 Evaluate model accuracy
 Predict whether news is Fake or Real
-Algorithms Used
+
+Algorithms Used:
 Logistic Regression
 Passive Aggressive Classifier
 Random Forest
-Dataset
-The dataset contains news articles labeled as:
 
+Dataset:
+The dataset contains news articles labeled as:
 REAL
 FAKE
+
 Dataset includes:
 
 Title
 News Text
 Label
-Project Structure
+
+Project Structure:
 Fake-News-Detection/
 │
 ├── Fake_News_Detection.ipynb
@@ -57,7 +62,8 @@ Fake-News-Detection/
 ├── real.csv
 ├── README.md
 └── venv/
-Installation
+
+Installation:
 Move into project folder:
 
 cd Fake-News-Detection
@@ -77,27 +83,31 @@ Run the Project
 Fake_News_Detection.ipynb
 Run all cells step by step.
 
-Model Evaluation
+Model Evaluation:
 The model performance is evaluated using:
 
 Accuracy Score
 Confusion Matrix
 Classification Report
-Future Improvements
+
+Future Improvements:
+
 Deploy using Flask or Streamlit
 Add live news URL checking
 Improve accuracy using Deep Learning
 Add web interface for users
-Learning Outcome
+
+Learning Outcome:
 Through this project, I learned:
 
-Natural Language Processing basics
+Natural Language Processing 
 Text preprocessing techniques
 TF-IDF Vectorization
 Machine Learning model training
 Model evaluation methods
 Real-world fake news classification
-Conclusion
+
+Conclusion:
 This project successfully demonstrates how Machine Learning and Natural Language Processing can be used to detect fake news articles. By applying text preprocessing, TF-IDF vectorization, and classification algorithms, the model is able to classify news as Real or Fake with good accuracy.
 
 The project helped in understanding important concepts like data cleaning, feature extraction, model training, and evaluation techniques. It also shows how AI can be used to solve real-world problems related to misinformation and online news verification.
