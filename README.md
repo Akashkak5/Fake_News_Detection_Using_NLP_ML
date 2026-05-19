@@ -1,12 +1,14 @@
-Fake News Detection Using Machine Learning
-Project Overview
+                                      Fake News Detection Using Machine Learning
+Project Overview:
+
 This project is a Machine Learning based Fake News Detection system that classifies news articles as Real or Fake using Natural Language Processing (NLP) techniques.
 
 The main goal of this project is to analyze textual news data and build a model that can identify misleading or false news content automatically.
 
 This project was developed using Python, Scikit-learn, Pandas, NumPy, and NLP techniques like TF-IDF Vectorization.
 
-Features
+Features:
+
 Data preprocessing and cleaning
 Text analysis using NLP
 TF-IDF Vectorization
